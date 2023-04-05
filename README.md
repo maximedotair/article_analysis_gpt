@@ -74,8 +74,8 @@ Type 'exit' to quit the script:
 Ask a question (previous questions and answers are not saved) or type 'exit' to quit: exit
 
 #Dependencies
- #OpenAI - Python library for the OpenAI API
- #newspaper3k - Python library for extracting and parsing newspaper articles
+ OpenAI - Python library for the OpenAI API
+ newspaper3k - Python library for extracting and parsing newspaper articles
 
 #License
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
