@@ -44,7 +44,7 @@ source myenv/bin/activate
 
 4. Install the required packages:
 
-    $ pip install -r requirements.txt
+`    $ pip install -r requirements.txt`
 
 5. Add your OpenAI API key to the script:
 
@@ -54,10 +54,10 @@ Replace `your_api_key_here` with your actual API key in the line:
 api_key = "your_api_key_here"
 ```
 
-#Usage
+# Usage
 Run the script:
 
-    $ python article_analysis.py
+`    $ python article_analysis.py`
 
 Enter the URL of the article to summarize: https://example.com/article-url
 
@@ -73,9 +73,9 @@ Type 'exit' to quit the script:
 
 Ask a question (previous questions and answers are not saved) or type 'exit' to quit: exit
 
-#Dependencies
+# Dependencies
  OpenAI - Python library for the OpenAI API
  newspaper3k - Python library for extracting and parsing newspaper articles
 
-#License
+# License
     This project is licensed under the MIT License.
