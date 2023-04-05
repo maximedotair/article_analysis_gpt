@@ -43,7 +43,7 @@ def chat(api_key, text_messages, user_message):
     return answer
 
 def main():
-    api_key = "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"
+    api_key = "your_openai_api_key"
     url = input("Enter the URL of the article to summarize: ")
 
     title, text_parts = get_article(url)
